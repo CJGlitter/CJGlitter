@@ -8,7 +8,7 @@ As a huge fan of gaming, I spend much of my free time playing games when I'm not
 My next goal in my career is to become a full time web developer. I'm currently most familiar in Ruby and Javascript but I'm always open to learning new things and my next big undertaking is planned to be learning C++.
 
 ## Employment
-I am currently looking for new positions as a software engineer. Remote is prefered but _opportunity_is not a lengthy visitor_—I would also be open to a hybrid model in Chicago for the right role. 
+I am currently looking for new positions as a software engineer. Remote is prefered but _opportunity is not a lengthy visitor_—I am open to a hybrid model in Chicago for the right role. 
 
 Please feel free to check out my [Linkedin](https://www.linkedin.com/in/cory-davis-026076115/) for my full employment history and ways to get in touch with me! You can also check out my portfolio at [CJGlitter.com](https://cjglitter.com)
 
